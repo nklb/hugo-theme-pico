@@ -1,8 +1,8 @@
 [tagged_in]
-other = "Tagged in"
+other = "Markiert in"
 
 [other_tags]
-other = "Other tags"
+other = "Andere Tags"
 
 [read_more]
 other = "Mehr"
@@ -20,13 +20,13 @@ other = "Abbrechen"
 other = "Senden"
 
 [previous]
-other = "Zurück"
+other = "Vorige"
 
 [next]
-other = "Next"
+other = "Nächste"
 
 [back]
-other = "Back"
+other = "Zurück"
 
 [contact]
 other = "Kontakt"
@@ -50,7 +50,7 @@ other = "Über mich"
 other = "Blog"
 
 [present]
-other = "Present"
+other = "Heute"
 
 [required_fields]
 other = "Benötigte Felder"
