@@ -54,3 +54,6 @@ other = "Present"
 
 [required_fields]
 other = "Required fields"
+
+[offer]
+other = "What I offer"

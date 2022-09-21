@@ -54,3 +54,6 @@ other = "Heute"
 
 [required_fields]
 other = "Benötigte Felder"
+
+[offer]
+other = "Mein Angebot"
